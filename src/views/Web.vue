@@ -12,7 +12,7 @@
         <v-expansion-panel-content>
 
         <div class="web__intro">
-          <v-card-text class="web__introtxt">Projets réalisés lors de la formation <a href="https://openclassrooms.com/fr/paths/556-developpeur-web">Développeur Web</a> d'<a href="https://openclassrooms.com/fr/">Openclassrooms</a> effectuée en alternance avec l'entreprise <a href="https://www.magikeduk.fr/">Magik Éduk</a></v-card-text>
+          <v-card-text class="web__introtxt">Projets réalisés lors de la formation <a target="_blank" href="https://openclassrooms.com/fr/paths/556-developpeur-web">Développeur Web</a> d'<a target="_blank" href="https://openclassrooms.com/fr/">Openclassrooms</a> effectuée en alternance avec l'entreprise <a target="_blank" href="https://www.magikeduk.fr/">Magik Éduk</a></v-card-text>
         </div>  
 
         <div class="web__cards">
