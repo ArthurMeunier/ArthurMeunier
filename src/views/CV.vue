@@ -1,6 +1,6 @@
 <template>
   <v-app>
-    <v-btn target="_blank" color="#2D2D2D" href="https://drive.google.com/file/d/1IawMroCmJxZ7kGrk1gT2DZx-ScA4H5-t/view?usp=sharing" class="cv__btn">Voir la version PDF</v-btn>
+    <v-btn target="_blank" color="#2D2D2D" href="CV_Meunier_Arthur.pdf" class="cv__btn">Voir la version PDF</v-btn>
     <div class="cv">
       <v-flex xs12 sm12 md5 lg6 xl6 class="mt-4 pt-4">
         <h2 class="mb-4 pl-4 pt-2">ÉTUDES</h2>

@@ -8,8 +8,8 @@ export default new Router({
   routes: [
     {
       path: "/",
-      name: "Son",
-      component: () => import("./views/Son")
+      name: "/CV",
+      component: () => import("./views/CV")
     },
     {
       path: "/Son/",
