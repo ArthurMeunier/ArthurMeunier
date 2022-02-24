@@ -173,8 +173,8 @@ export default {
         { 
           id: 7,
           date: '2016 - 2017',
-          title: 'WE ARE TESTERS',
-          place: 'OPENCLASSROOMS',
+          title: 'TESTEUR WEB',
+          place: 'WE ARE TESTERS',
           description: `Tests d’applications et de sites internet`, 
         },
         { 
