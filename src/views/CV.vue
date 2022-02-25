@@ -24,7 +24,7 @@
         </v-card-text>
       </v-flex>
       <v-flex xs12 sm12 md5 lg6 xl6 class="mt-4 pt-4">
-        <h2 class="mb-4 pl-4 pt-2">TRAVAIL</h2>
+        <h2 class="mb-4 pl-4 pt-2">EMPLOIS</h2>
         <v-card-text class="py-0">
           <v-timeline align-top dense>
             <v-timeline-item 

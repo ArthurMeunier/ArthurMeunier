@@ -11,7 +11,7 @@
      
         <v-expansion-panel-content>
           <div class="video__intro">
-            <v-card-text class="video__introtxt">Vidéos réalisées pour la communication de<a target="_blank" href="https://www.graphonemo.fr/">Graphonémo</a>. D'autres vidéos sont visibles sur la chaîne<a target="_blank" href="https://www.youtube.com/channel/UCqJsdD_RYlc007ME8XTGMBw/videos">Youtube</a></v-card-text>
+            <v-card-text class="video__introtxt">Vidéos réalisées pour la communication de <a target="_blank" href="https://www.graphonemo.fr/">Graphonémo</a>. D'autres vidéos sont visibles sur la chaîne <a target="_blank" href="https://www.youtube.com/channel/UCqJsdD_RYlc007ME8XTGMBw/videos">Youtube</a></v-card-text>
           </div>  
           <div class="video__cards">
             <v-card class="video__card"
@@ -129,7 +129,7 @@ export default {
   name: 'Video',
   data() {
     return {
-      panel: [0, 1],
+      panel: 0,
       iconyt: require('@/assets/icons/iconyt.png'),
       videos:
        [
@@ -262,7 +262,6 @@ export default {
     color: black;
     font-weight: bold;
     text-decoration-color: black!important;
-    margin-left: 0.2rem;
   }
   &__cards {
     display: flex;

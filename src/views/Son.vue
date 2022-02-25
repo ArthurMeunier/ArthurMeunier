@@ -188,7 +188,7 @@ export default {
   },
   data() {
     return {
-      panel: [0, 1],
+      panel: 1,
       icon1: require('@/assets/icons/iconmic.png'),
       icon2: require('@/assets/icons/iconmix.png'),
       icon3: require('@/assets/icons/iconreaper.png'),
@@ -464,7 +464,7 @@ export default {
   padding: 1rem;
 }
 
-.v-tooltip {
+.v-tooltip::v-deep {
   display: block;
 }
 

@@ -67,9 +67,11 @@ export default {
     width: 8rem;
   }
   &__name {
+    display: flex;
+    align-items: center;
     font-size: 2.5rem;
     font-weight: 500;
-    padding: 1rem 1rem 1rem 4rem;
+    padding: 1rem 0rem 1rem 4rem;
   }
   &__nav {
     font-weight: 500;
@@ -97,7 +99,7 @@ export default {
 
 
 
-@media screen and (max-width:480px) {
+@media screen and (max-width:1024px) {
   .header {
     &__name {
       font-size: 1.8rem;

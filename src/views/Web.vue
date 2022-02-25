@@ -137,7 +137,7 @@ export default {
   name: 'Video',
   data() {
     return {
-      panel: 0,
+      panel: 1,
       linkdemo: 'DÉMO',
       linktext: 'GITHUB',
       projects: [
